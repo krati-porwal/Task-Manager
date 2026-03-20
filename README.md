@@ -129,7 +129,6 @@ npm run dev
 * Database integration (MongoDB / PostgreSQL)
 * User authentication (Login/Signup)
 * Edit task feature
-* Drag-and-drop functionality
 * Dark mode UI
 
 ---
