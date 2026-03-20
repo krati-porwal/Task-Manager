@@ -136,7 +136,7 @@ npm run dev
 
 ## 👩‍💻 Author
 
-*KRATI PORWAL
+KRATI PORWAL
 
 ---
 
