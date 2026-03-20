@@ -14,7 +14,7 @@ const App = () => {
   const [priority, setPriority] = useState("Medium");
   const [filter, setFilter] = useState("all");
 
-  const API_URL = "http://127.0.0.1:8000";
+  const API_URL = "https://task-manager-0o3v.onrender.com";
 
   const fetchTasks = async () => {
     const res = await fetch(`${API_URL}/tasks`);
